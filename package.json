@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/5neverstop/webpack-demo#readme",
   "devDependencies": {
-    "webpack": "^4.41.5"
+    "webpack": "^5.75.0"
   }
 }
